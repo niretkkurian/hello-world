@@ -1,3 +1,1 @@
-# hello-world
-Learning about Github
-Foodie Traveller
+Changing almost everything
